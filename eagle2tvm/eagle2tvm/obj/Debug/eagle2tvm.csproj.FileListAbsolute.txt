@@ -1,0 +1,9 @@
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\bin\Debug\eagle2tvm.exe.config
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\bin\Debug\eagle2tvm.exe
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\bin\Debug\eagle2tvm.pdb
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.Form1.resources
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.Properties.Resources.resources
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.splash.resources
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.csproj.GenerateResource.Cache
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.exe
+D:\mailCloud\work\eagle2tvm802\eagle2tvm\eagle2tvm\obj\Debug\eagle2tvm.pdb

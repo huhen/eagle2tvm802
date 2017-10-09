@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace eagle2tvm
+namespace csv2tvm
 {
     class stack
     {

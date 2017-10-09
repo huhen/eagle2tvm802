@@ -3,14 +3,14 @@ using System.IO;
 using System.Windows.Forms;
 using System.ComponentModel;
 
-namespace eagle2tvm
+namespace csv2tvm
 {
     public static class info
     {
         public static String LastDir = "";
         public static String LastFile = "";
-        static String cfgfile = "eagle2pnp.cfg";
-        public static String stackfile = "eagle2pnp.stk";
+        static String cfgfile = "csv2pnp.cfg";
+        public static String stackfile = "csv2pnp.stk";
         public static String tvmDir = "";
         public static String ttvmfile = "";
         public static String btvmfile = "";

@@ -2,7 +2,7 @@
 using System.IO;
 using System.ComponentModel;
 
-namespace eagle2tvm
+namespace csv2tvm
 {
     class tvm
     {

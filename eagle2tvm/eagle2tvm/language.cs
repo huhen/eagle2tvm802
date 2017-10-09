@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace eagle2tvm
+namespace csv2tvm
 {
     public static class language
     {

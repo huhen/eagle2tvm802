@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-//using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace eagle2tvm
+namespace csv2tvm
 {
     static class Program
     {
@@ -16,7 +13,7 @@ namespace eagle2tvm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmMain());
         }
     }
 }
